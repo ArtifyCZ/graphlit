@@ -1,0 +1,15 @@
+[package]
+name = "graphlit"
+version = "0.0.0"
+authors = ["Artify"]
+edition = '2021'
+description = "Set of graph structures and algorithms"
+readme = "README.md"
+repository = "https://gitlab.artify.zone/artify/graphlit"
+license = "MIT"
+categories = ["algorithms", "data-structures", "mathematics"]
+
+[features]
+default = []
+
+[dependencies]
